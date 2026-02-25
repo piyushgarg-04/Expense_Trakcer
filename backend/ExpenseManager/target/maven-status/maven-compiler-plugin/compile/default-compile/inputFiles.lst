@@ -1,0 +1,13 @@
+C:\Users\user\Downloads\ExpenseManager\ExpenseManager\src\main\java\com\example\expensetracker\controller\ExpenseController.java
+C:\Users\user\Downloads\ExpenseManager\ExpenseManager\src\main\java\com\example\expensetracker\dto\CategoryDTO.java
+C:\Users\user\Downloads\ExpenseManager\ExpenseManager\src\main\java\com\example\expensetracker\dto\ExpenseDTO.java
+C:\Users\user\Downloads\ExpenseManager\ExpenseManager\src\main\java\com\example\expensetracker\dto\VendorCategoryMappingDTO.java
+C:\Users\user\Downloads\ExpenseManager\ExpenseManager\src\main\java\com\example\expensetracker\entity\Category.java
+C:\Users\user\Downloads\ExpenseManager\ExpenseManager\src\main\java\com\example\expensetracker\entity\Expense.java
+C:\Users\user\Downloads\ExpenseManager\ExpenseManager\src\main\java\com\example\expensetracker\entity\VendorCategoryMapping.java
+C:\Users\user\Downloads\ExpenseManager\ExpenseManager\src\main\java\com\example\expensetracker\ExpenseManagerApplication.java
+C:\Users\user\Downloads\ExpenseManager\ExpenseManager\src\main\java\com\example\expensetracker\mapper\Mapper.java
+C:\Users\user\Downloads\ExpenseManager\ExpenseManager\src\main\java\com\example\expensetracker\repository\CategoryRepository.java
+C:\Users\user\Downloads\ExpenseManager\ExpenseManager\src\main\java\com\example\expensetracker\repository\ExpenseRepository.java
+C:\Users\user\Downloads\ExpenseManager\ExpenseManager\src\main\java\com\example\expensetracker\repository\VendorCategoryMappingRepository.java
+C:\Users\user\Downloads\ExpenseManager\ExpenseManager\src\main\java\com\example\expensetracker\service\ExpenseService.java

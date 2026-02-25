@@ -1,0 +1,13 @@
+com\example\expensetracker\entity\Category.class
+com\example\expensetracker\repository\VendorCategoryMappingRepository.class
+com\example\expensetracker\entity\VendorCategoryMapping.class
+com\example\expensetracker\dto\CategoryDTO.class
+com\example\expensetracker\dto\VendorCategoryMappingDTO.class
+com\example\expensetracker\repository\ExpenseRepository.class
+com\example\expensetracker\dto\ExpenseDTO.class
+com\example\expensetracker\controller\ExpenseController.class
+com\example\expensetracker\entity\Expense.class
+com\example\expensetracker\repository\CategoryRepository.class
+com\example\expensetracker\ExpenseManagerApplication.class
+com\example\expensetracker\mapper\Mapper.class
+com\example\expensetracker\service\ExpenseService.class
